@@ -1,0 +1,12 @@
+# requirements.txt - Python package dependencies
+# 
+# Install all packages with: pip install -r requirements.txt
+
+# OpenAI Python SDK for API access
+openai>=1.12.0
+
+# Pydantic for data validation and structured outputs
+pydantic>=2.0.0
+
+# Python-dotenv for loading environment variables from .env file
+python-dotenv>=1.0.0
